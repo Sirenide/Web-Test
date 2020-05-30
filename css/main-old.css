@@ -1,0 +1,11 @@
+body {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  color: #002240 !important;
+}
+
+.nav-font {
+  font-weight: bold;
+  text-align: center;
+}
